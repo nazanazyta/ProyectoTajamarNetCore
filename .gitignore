@@ -1,0 +1,4 @@
+## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
+
+# Archivos privados del admin
+admin*
