@@ -4,4 +4,6 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ProjectExtensions><VisualStudio><UserProperties wwwroot_4css_4bootstrap_1min_1css_1map__JsonSchema="https://json.schemastore.org/stylelintrc" /></VisualStudio></ProjectExtensions>
+
 </Project>

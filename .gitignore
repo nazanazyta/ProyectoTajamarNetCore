@@ -1,4 +1,6 @@
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+##Incluimos en este archivo lo que queremos que ignore git al hacer push
+
 # Archivos privados del admin
 admin*

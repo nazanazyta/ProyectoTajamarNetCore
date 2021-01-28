@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nazaret\\source\\repos\\ProyectoTajamarNetCore\\ProyectoTajamarNetCore\\ProyectoTajamarNetCore.csproj": {}
+    "C:\\Users\\Nazaret\\Repos\\ProyectoTajamarNetCore\\ProyectoTajamarNetCore\\ProyectoTajamarNetCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nazaret\\source\\repos\\ProyectoTajamarNetCore\\ProyectoTajamarNetCore\\ProyectoTajamarNetCore.csproj": {
+    "C:\\Users\\Nazaret\\Repos\\ProyectoTajamarNetCore\\ProyectoTajamarNetCore\\ProyectoTajamarNetCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nazaret\\source\\repos\\ProyectoTajamarNetCore\\ProyectoTajamarNetCore\\ProyectoTajamarNetCore.csproj",
+        "projectUniqueName": "C:\\Users\\Nazaret\\Repos\\ProyectoTajamarNetCore\\ProyectoTajamarNetCore\\ProyectoTajamarNetCore.csproj",
         "projectName": "ProyectoTajamarNetCore",
-        "projectPath": "C:\\Users\\Nazaret\\source\\repos\\ProyectoTajamarNetCore\\ProyectoTajamarNetCore\\ProyectoTajamarNetCore.csproj",
+        "projectPath": "C:\\Users\\Nazaret\\Repos\\ProyectoTajamarNetCore\\ProyectoTajamarNetCore\\ProyectoTajamarNetCore.csproj",
         "packagesPath": "C:\\Users\\Nazaret\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nazaret\\source\\repos\\ProyectoTajamarNetCore\\ProyectoTajamarNetCore\\obj\\",
+        "outputPath": "C:\\Users\\Nazaret\\Repos\\ProyectoTajamarNetCore\\ProyectoTajamarNetCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

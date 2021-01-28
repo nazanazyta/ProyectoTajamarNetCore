@@ -7,63 +7,59 @@
     <meta name="author" content="Nazaret de la Calle Miján">
     <title>TheGuauHouse</title>
     <link href="~/css/bootstrap.min.css" rel="stylesheet">
-    <link href="~/css/navbar.css" rel="stylesheet">
-    <style>
-        .bd-placeholder-img {
-            font-size: 1.125rem;
-            text-anchor: middle;
-            -webkit-user-select: none;
-            -moz-user-select: none;
-            user-select: none;
-        }
-    </style>
+    <link href="navbar.css" rel="stylesheet">
 </head>
 <body>
-    <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
+    <nav class="navbar navbar-expand-md navbar-dark bg-dark">
         <div class="container-fluid">
             <a class="navbar-brand" asp-controller="Home" asp-action="Index">TheGuauHouse</a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsExample05" aria-controls="navbarsExample05" aria-expanded="false" aria-label="Toggle navigation">
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#minavbar" aria-controls="navbarsExample04" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
 
-            <div class="collapse navbar-collapse" id="navbarsExample05">
-                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+            <div class="collapse navbar-collapse" id="minavbar">
+                <ul class="navbar-nav me-auto mb-2 mb-md-0">
                     <li class="nav-item active">
-                        <a class="nav-link" asp-controller="Home" asp-action="Index">Home</a>
+                        <a class="nav-link" aria-current="page" asp-controller="Home" asp-action="Index">Home</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" asp-controller="Home" asp-action="Link">Link</a>
                     </li>
+                    @*<li class="nav-item">
+                            <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+                        </li>*@
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="dropdown05" data-bs-toggle="dropdown" aria-expanded="false">Dropdown</a>
-                        <ul class="dropdown-menu" aria-labelledby="dropdown05">
-                            <li><a class="dropdown-item" href="#">Action</a></li>
-                            <li><a class="dropdown-item" href="#">Another action</a></li>
-                            <li><a class="dropdown-item" href="#">Something else here</a></li>
+                        <a class="nav-link dropdown-toggle" href="#" id="midropdown" data-bs-toggle="dropdown" aria-expanded="false">Dropdown</a>
+                        <ul class="dropdown-menu" aria-labelledby="midropdown">
+                            <li><a class="dropdown-item" asp-controller="Home" asp-action="Index">Instalaciones</a></li>
+                            <li><a class="dropdown-item" asp-controller="Home" asp-action="Link">Nosotros</a></li>
+                            <li><a class="dropdown-item" asp-controller="Home" asp-action="Index">Algo más</a></li>
                         </ul>
                     </li>
                 </ul>
-                <form>
-                    <input class="form-control" type="text" placeholder="Search" aria-label="Search">
-                </form>
+                @*<form>*@
+                @*<input class="form-control" type="text" placeholder="Search" aria-label="Search">*@
+                @*</form>*@
+                <a class="nav-link btn btn-outline-light btn-md" asp-controller="Sesion" asp-action="Login">
+                    Log in
+                </a>
             </div>
         </div>
     </nav>
-
-    <main class="container">
-
+    <main>
         <div class="starter-template text-center px-3" style="padding-top: 50px">
             @*<h1>Plantilla principal</h1>*@
             @*<div style="background-color: aquamarine">*@
-                @*<h3>Zona de vistas:</h3>*@
-                @RenderBody()
+            @*<h3>Zona de vistas:</h3>*@
+            @RenderBody()
             @*</div>*@
         </div>
-
-    </main><!-- /.container -->
-    <script src="~/js/jquery-3.5.1.min.js"></script>
-    <script src="~/js/bootstrap.min.js"></script>
-    <script src="~/js/bootstrap.bundle.js"></script>
-    <script src="~/js/popper.min.js"></script>
+    </main>
+    <footer class="footer mt-auto py-3 bg-light fixed-bottom">
+        <div class="container">
+            <span class="text-muted">&copy; TheGuauHouse 2021</span>
+        </div>
+    </footer>
+    <script src="~/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
