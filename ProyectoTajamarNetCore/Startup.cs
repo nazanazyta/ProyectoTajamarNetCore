@@ -1,8 +1,13 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using ProyectoTajamarNetCore.Data;
+using ProyectoTajamarNetCore.Helpers;
+using ProyectoTajamarNetCore.Repositories;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,8 +17,25 @@ namespace ProyectoTajamarNetCore
 {
     public class Startup
     {
+        IConfiguration Configuration;
+
+        public Startup(IConfiguration configuration)
+        {
+            this.Configuration = configuration;
+        }
+
         public void ConfigureServices(IServiceCollection services)
         {
+            String cadenasql = this.Configuration.GetConnectionString("casasqlnaza");
+
+            services.AddSingleton<IConfiguration>(this.Configuration);
+            services.AddSingleton<PasswordCompare>();
+            services.AddSingleton<CypherService>();
+
+            services.AddTransient<IRepositoryTheGuauHouse, RepositoryTheGuauHouseSql>();
+
+            services.AddDbContext<TheGuauHouseContext>(options => options.UseSqlServer(cadenasql));
+
             services.AddControllersWithViews();
         }
 

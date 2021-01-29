@@ -6,4 +6,10 @@
 
   <ProjectExtensions><VisualStudio><UserProperties wwwroot_4css_4bootstrap_1min_1css_1map__JsonSchema="https://json.schemastore.org/stylelintrc" /></VisualStudio></ProjectExtensions>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="5.0.2" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.4" />
+  </ItemGroup>
+
 </Project>

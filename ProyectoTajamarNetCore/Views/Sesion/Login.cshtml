@@ -2,18 +2,26 @@
     Layout = "_LayoutSesion";
 }
 
-<form>
+<form method="post">
     <img class="mb-4" src="~/images/logo.gif" alt="" width="150" height="150">
     <h1 class="h3 mb-3 fw-normal">Please sign in</h1>
     <label for="inputEmail" class="visually-hidden">Email address</label>
-    <input type="email" id="inputEmail" class="form-control" placeholder="Email address" required autofocus>
+    <input type="text" name="username" id="inputEmail" class="form-control" placeholder="Email address" required autofocus>
     <label for="inputPassword" class="visually-hidden">Password</label>
-    <input type="password" id="inputPassword" class="form-control" placeholder="Password" required>
-    <div class="checkbox mb-3">
+    <input type="password" name="password" id="inputPassword" class="form-control" placeholder="Password" required>
+    @*<div class="checkbox mb-3">
         <label>
             <input type="checkbox" value="remember-me"> Remember me
         </label>
-    </div>
+    </div>*@
     <button class="w-100 btn btn-lg btn-primary" type="submit">Sign in</button>
     <p class="mt-5 mb-3 text-muted">&copy; TheGuauHouse 2021</p>
 </form>
+
+<a asp-controller="Sesion" asp-action="Registro" class="btn btn-info">Registar</a>
+
+<a asp-controller="Home" asp-action="Index" class="text-success">Inicio</a>
+
+<br /><br />
+
+<h1 style="color: blue">@ViewData["mensaje"]</h1>
