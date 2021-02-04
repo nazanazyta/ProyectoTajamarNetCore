@@ -25,8 +25,15 @@ namespace ProyectoTajamarNetCore.Controllers
         [HttpPost]
         public IActionResult Registro(String nombre, String username, String password)
         {
-            this.Repo.InsertarUsuario(nombre, username, password);
-            ViewData["mensaje"] = "Datos almacenados";
+            if (this.Repo.GetUsuarioUsername(username) == null)
+            {
+                this.Repo.InsertarUsuario(nombre, username, password);
+                ViewData["mensaje"] = "Datos almacenados";
+            }
+            else
+            {
+                ViewData["mensaje"] = "Ese usuario ya existe";
+            }
             return View();
         }
 
@@ -45,7 +52,8 @@ namespace ProyectoTajamarNetCore.Controllers
             }
             else
             {
-                ViewData["mensaje"] = "Éxito: " + username;
+                ViewData["mensaje"] = "Éxito: " + user.UserName;
+                //HttpContext.Session.Set("user", user.UserName);
             }
             return View();
         }

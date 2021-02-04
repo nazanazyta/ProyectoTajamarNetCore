@@ -10,6 +10,8 @@ namespace ProyectoTajamarNetCore.Repositories
     {
         //List<Usuario> GetUsuarios();
 
+        public Usuario GetUsuarioUsername(String username);
+
         void InsertarUsuario(String nombre
             , String username, String password);
 

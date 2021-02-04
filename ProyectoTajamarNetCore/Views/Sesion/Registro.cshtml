@@ -11,7 +11,7 @@
         <hr />
         <div class="form-group">
             <label class="control-label">Nombre</label>
-            <input type="text" name="nombre" class="form-control" />
+            <input type="text" name="nombre" class="form-control" required autofocus />
         </div>
         @*<div class="form-group">
             <label class="control-label">Apellidos</label>
@@ -23,11 +23,11 @@
         </div>*@
         <div class="form-group">
             <label class="control-label">Usuario</label>
-            <input type="text" name="username" class="form-control" />
+            <input type="text" name="username" class="form-control" required />
         </div>
         <div class="form-group">
             <label class="control-label">Contraseña</label>
-            <input type="text" name="password" class="form-control" />
+            <input type="text" name="password" class="form-control" required />
         </div><br />
         <button class="w-100 btn btn-lg btn-primary" type="submit">Registrar</button>
     </form>
@@ -35,5 +35,14 @@
     <a asp-controller="Sesion" asp-action="Login" class="btn btn-info">Ya tengo cuenta</a>
     <p class="mt-5 mb-3 text-muted">&copy; TheGuauHouse 2021</p>
     <br />
-    <h1 style="color: blue">@ViewData["mensaje"]</h1>
+    @*<h1 style="color: blue">@ViewData["mensaje"]</h1>*@
 </main>
+@section scripts{ 
+    @*<script>
+    $(document).ready(function(){
+        $(".mt-2").submit(function(){
+            alert("@ViewData["mensaje"]");
+        });
+    });
+    </script>*@
+}

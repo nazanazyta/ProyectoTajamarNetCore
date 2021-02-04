@@ -26,9 +26,14 @@ namespace ProyectoTajamarNetCore.Repositories
         //    return consulta.ToList();
         //}
 
+        public Usuario GetUsuarioUsername(String username)
+        {
+            return this.Context.Usuarios.Where(x => x.UserName == username).FirstOrDefault();
+        }
+
         private int GetMaxId()
         {
-
+            //Siempre va a existir el usuario con id 1 (admin)
             int id = (from datos in this.Context.Usuarios
                       select datos.IdUsuario).Max() + 1;
             return id;
@@ -42,7 +47,7 @@ namespace ProyectoTajamarNetCore.Repositories
             //Usuario user = new Usuario();
             //user.IdUsuario = 1;
             user.Nombre = nombre;
-            user.UserName = username;
+            user.UserName = username.ToLower();
             //String salt = this.Cypher.GetSalt();
             //user.Salt = salt;
             //byte[] res = this.Cypher.CifrarPassword(password, salt);
@@ -55,7 +60,7 @@ namespace ProyectoTajamarNetCore.Repositories
         public Usuario Login(String username, String password)
         {
             Usuario user = this.Context.Usuarios
-                .Where(x => x.UserName == username)
+                .Where(x => x.UserName == username.ToLower())
                 .FirstOrDefault();
             if (user == null)
             {

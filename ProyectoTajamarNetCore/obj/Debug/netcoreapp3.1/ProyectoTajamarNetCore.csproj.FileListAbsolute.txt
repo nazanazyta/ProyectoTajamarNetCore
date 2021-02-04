@@ -490,3 +490,4 @@ G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\P
 G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\ProyectoTajamarNetCore.pdb
 G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\ProyectoTajamarNetCore.genruntimeconfig.cache
 G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\ProyectoTajamarNetCore.csprojAssemblyReference.cache
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\admin\adminpasswords.json
