@@ -186,3 +186,307 @@ C:\Users\Nazaret\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\n
 C:\Users\Nazaret\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Usuarios.cshtml.g.cs
 C:\Users\Nazaret\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\Nazaret\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Sesion\Registro.cshtml.g.cs
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\appsettings.json
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\ProyectoTajamarNetCore.exe
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\ProyectoTajamarNetCore.deps.json
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\ProyectoTajamarNetCore.runtimeconfig.json
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\ProyectoTajamarNetCore.runtimeconfig.dev.json
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\ProyectoTajamarNetCore.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\ProyectoTajamarNetCore.pdb
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\ProyectoTajamarNetCore.Views.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\ProyectoTajamarNetCore.Views.pdb
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\ProyectoTajamarNetCore.csprojAssemblyReference.cache
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\ProyectoTajamarNetCore.AssemblyInfoInputs.cache
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\ProyectoTajamarNetCore.AssemblyInfo.cs
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\ProyectoTajamarNetCore.csproj.CoreCompileInputs.cache
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\ProyectoTajamarNetCore.MvcApplicationPartsAssemblyInfo.cache
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\ProyectoTajamarNetCore.RazorAssemblyInfo.cache
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\ProyectoTajamarNetCore.RazorAssemblyInfo.cs
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\staticwebassets\ProyectoTajamarNetCore.StaticWebAssets.Manifest.cache
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\staticwebassets\ProyectoTajamarNetCore.StaticWebAssets.xml
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProyectoTajamarNetCore.styles.css
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\ProyectoTajamarNetCore.TagHelpers.input.cache
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\ProyectoTajamarNetCore.TagHelpers.output.cache
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\ProyectoTajamarNetCore.RazorCoreGenerate.cache
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Link.cshtml.g.cs
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Usuarios.cshtml.g.cs
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Sesion\Login.cshtml.g.cs
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Sesion\Registro.cshtml.g.cs
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutSesion.cshtml.g.cs
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\ProyectoTajamarNetCore.RazorTargetAssemblyInfo.cache
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\ProyectoTajamarNetCore.RazorTargetAssemblyInfo.cs
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\ProyectoTajamarNetCore.Views.pdb
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\ProyectoTajamarNetCore.csproj.CopyComplete
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\ProyectoTajamarNetCore.dll
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\ProyectoTajamarNetCore.pdb
+G:\Visual Studio\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\ProyectoTajamarNetCore.genruntimeconfig.cache
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\appsettings.json
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\ProyectoTajamarNetCore.exe
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\ProyectoTajamarNetCore.deps.json
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\ProyectoTajamarNetCore.runtimeconfig.json
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\ProyectoTajamarNetCore.runtimeconfig.dev.json
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\ProyectoTajamarNetCore.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\ProyectoTajamarNetCore.pdb
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\ProyectoTajamarNetCore.Views.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\ProyectoTajamarNetCore.Views.pdb
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\ProyectoTajamarNetCore.AssemblyInfoInputs.cache
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\ProyectoTajamarNetCore.AssemblyInfo.cs
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\ProyectoTajamarNetCore.csproj.CoreCompileInputs.cache
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\ProyectoTajamarNetCore.MvcApplicationPartsAssemblyInfo.cache
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\ProyectoTajamarNetCore.RazorAssemblyInfo.cache
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\ProyectoTajamarNetCore.RazorAssemblyInfo.cs
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\staticwebassets\ProyectoTajamarNetCore.StaticWebAssets.Manifest.cache
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\staticwebassets\ProyectoTajamarNetCore.StaticWebAssets.xml
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProyectoTajamarNetCore.styles.css
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\ProyectoTajamarNetCore.TagHelpers.input.cache
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\ProyectoTajamarNetCore.TagHelpers.output.cache
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\ProyectoTajamarNetCore.RazorCoreGenerate.cache
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Link.cshtml.g.cs
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Usuarios.cshtml.g.cs
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Sesion\Login.cshtml.g.cs
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Sesion\Registro.cshtml.g.cs
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutSesion.cshtml.g.cs
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\ProyectoTajamarNetCore.RazorTargetAssemblyInfo.cache
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\ProyectoTajamarNetCore.RazorTargetAssemblyInfo.cs
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\ProyectoTajamarNetCore.Views.pdb
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\ProyectoTajamarNetCore.csproj.CopyComplete
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\ProyectoTajamarNetCore.dll
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\ProyectoTajamarNetCore.pdb
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\ProyectoTajamarNetCore.genruntimeconfig.cache
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\ProyectoTajamarNetCore.csprojAssemblyReference.cache

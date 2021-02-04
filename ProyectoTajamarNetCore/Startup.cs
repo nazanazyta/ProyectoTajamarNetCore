@@ -30,7 +30,7 @@ namespace ProyectoTajamarNetCore
 
             services.AddSingleton<IConfiguration>(this.Configuration);
             services.AddSingleton<PasswordCompare>();
-            services.AddSingleton<CypherService>();
+            //services.AddSingleton<CypherService>();
 
             services.AddTransient<IRepositoryTheGuauHouse, RepositoryTheGuauHouseSql>();
 

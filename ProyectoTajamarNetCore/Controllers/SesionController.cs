@@ -22,7 +22,13 @@ namespace ProyectoTajamarNetCore.Controllers
             return View();
         }
 
-
+        [HttpPost]
+        public IActionResult Registro(String nombre, String username, String password)
+        {
+            this.Repo.InsertarUsuario(nombre, username, password);
+            ViewData["mensaje"] = "Datos almacenados";
+            return View();
+        }
 
         public IActionResult Login()
         {

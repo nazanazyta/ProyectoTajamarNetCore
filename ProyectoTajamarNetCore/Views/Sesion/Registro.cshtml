@@ -2,42 +2,38 @@
     Layout = "_LayoutSesion";
 }
 
-<h1>Registro</h1>
-
-<h4>Usuario</h4>
-<hr />
-<div class="row">
-    <div class="col-md-4">
-        <form method="post">
-            <div class="form-group">
-                <label class="control-label">Nombre</label>
-                <input type="text" name="nombre" class="form-control" />
-            </div>
-            <div class="form-group">
-                <label class="control-label">Apellidos</label>
-                <input type="text" name="apellidos" class="form-control" />
-            </div>
-            <div class="form-group">
-                <label class="control-label">Usuario</label>
-                <input type="text" name="username" class="form-control" />
-            </div>
-            <div class="form-group">
-                <label class="control-label">Contraseña</label>
-                <input type="text" name="pass" class="form-control" />
-            </div>
-            <div class="form-group">
-                <label class="control-label">DNI</label>
-                <input type="text" name="dni" class="form-control" />
-            </div>
-            <div class="form-group">
-                <label class="control-label">Email</label>
-                <input type="email" name="email" class="form-control" />
-            </div>
-            <div class="form-group">
-                <label class="control-label">Teléfono</label>
-                <input type="text" name="telefono" class="form-control" />
-            </div>
-            <button type="submit" class="btn btn-primary">Create</button>
-        </form>
-    </div>
-</div>
+<main class="form-signin">
+    <a asp-controller="Home" asp-action="Index" class="btn btn-outline-primary">Inicio</a>
+    <form method="post" class="mt-2">
+        <img class="mb-4" src="~/images/logo.gif" alt="" width="150" height="150">
+        <h1 class="h3 mb-3 fw-normal">Registro</h1>
+        @ViewData["mensaje"]
+        <hr />
+        <div class="form-group">
+            <label class="control-label">Nombre</label>
+            <input type="text" name="nombre" class="form-control" />
+        </div>
+        @*<div class="form-group">
+            <label class="control-label">Apellidos</label>
+            <input type="text" name="apellidos" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label class="control-label">Email</label>
+            <input type="email" name="email" class="form-control" />
+        </div>*@
+        <div class="form-group">
+            <label class="control-label">Usuario</label>
+            <input type="text" name="username" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label class="control-label">Contraseña</label>
+            <input type="text" name="password" class="form-control" />
+        </div><br />
+        <button class="w-100 btn btn-lg btn-primary" type="submit">Registrar</button>
+    </form>
+    <br />
+    <a asp-controller="Sesion" asp-action="Login" class="btn btn-info">Ya tengo cuenta</a>
+    <p class="mt-5 mb-3 text-muted">&copy; TheGuauHouse 2021</p>
+    <br />
+    <h1 style="color: blue">@ViewData["mensaje"]</h1>
+</main>
