@@ -10,11 +10,35 @@
         <input type="text" name="username" id="inputEmail" class="form-control" placeholder="Nombre de usuario" required autofocus><br />
         <input type="text" name="password" id="inputPassword" class="form-control" placeholder="Password" required>
         @*<div class="checkbox mb-3">
-                <label>
-                    <input type="checkbox" value="remember-me"> Remember me
-                </label>
-            </div>*@<br />
+            <label>
+                <input type="checkbox" value="remember-me"> Remember me
+            </label>
+        </div>*@<br />
         <button class="w-100 btn btn-lg btn-primary" type="submit">Sign in</button>
+        @* MODAL DE CONFIRMACIÓN *@
+        @*<button class="w-100 btn btn-lg btn-primary"
+                data-bs-toggle="modal" type="button"
+                data-bs-target="#confirmation">
+            Sign in
+        </button>
+
+        <div class="modal fade" id="confirmation" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModalLabel">Confirmación</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                        Estás seguro que quieres entrar??
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-danger" data-bs-dismiss="modal">No</button>
+                        <button type="submit" class="btn btn-success">Sí</button>
+                    </div>
+                </div>
+            </div>
+        </div>*@
     </form>
     <br />
     <a asp-controller="Sesion" asp-action="Registro" class="btn btn-info">Registar</a>
