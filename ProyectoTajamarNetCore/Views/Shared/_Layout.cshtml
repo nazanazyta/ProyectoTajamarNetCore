@@ -17,25 +17,31 @@
                 <span class="navbar-toggler-icon"></span>
             </button>
 
-            <div class="collapse navbar-collapse" id="minavbar">
+            <div class="collapse navbar-collapse mx-auto" id="minavbar">
                 <ul class="navbar-nav me-auto mb-2 mb-md-0">
                     <li class="nav-item active">
-                        <a class="nav-link" aria-current="page" asp-controller="Home" asp-action="Index">Home</a>
+                        <a class="nav-link" aria-current="page" asp-controller="Home" asp-action="Index">Nuestra guardería</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" asp-controller="Home" asp-action="Link">Link</a>
+                        <a class="nav-link" asp-controller="Home" asp-action="Link">Quiénes somos</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-controller="Home" asp-action="Link">Tarifas</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-controller="Home" asp-action="Link">Contacto</a>
                     </li>
                     @*<li class="nav-item">
                             <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
                         </li>*@
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="midropdown" data-bs-toggle="dropdown" aria-expanded="false">Dropdown</a>
-                        <ul class="dropdown-menu" aria-labelledby="midropdown">
-                            <li><a class="dropdown-item" asp-controller="Home" asp-action="Index">Instalaciones</a></li>
-                            <li><a class="dropdown-item" asp-controller="Home" asp-action="Link">Nosotros</a></li>
-                            <li><a class="dropdown-item" asp-controller="Home" asp-action="Usuarios">Usuarios</a></li>
-                        </ul>
-                    </li>
+                    @*<li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="midropdown" data-bs-toggle="dropdown" aria-expanded="false">Dropdown</a>
+                            <ul class="dropdown-menu" aria-labelledby="midropdown">
+                                <li><a class="dropdown-item" asp-controller="Home" asp-action="Index">Instalaciones</a></li>
+                                <li><a class="dropdown-item" asp-controller="Home" asp-action="Link">Nosotros</a></li>
+                                <li><a class="dropdown-item" asp-controller="Home" asp-action="Usuarios">Usuarios</a></li>
+                            </ul>
+                        </li>*@
                 </ul>
                 @*<form>*@
                 @*<input class="form-control" type="text" placeholder="Search" aria-label="Search">*@
@@ -46,8 +52,9 @@
             </div>
         </div>
     </nav>
-    <main>
-        <div class="starter-template text-center px-3" style="padding-top: 50px">
+    <main class="align-items-center">
+        <div class="starter-template text-center">
+            <!--style="padding-top: 50px"-->
             @*<h1>Plantilla principal</h1>*@
             @*<div style="background-color: aquamarine">*@
             @*<h3>Zona de vistas:</h3>*@
@@ -55,9 +62,9 @@
             @*</div>*@
         </div>
     </main>
-    <footer class="footer mt-auto py-3 bg-light fixed-bottom">
+    <footer class="footer mt-2 py-1 bg-dark">
         <div class="container">
-            <span class="text-muted">&copy; TheGuauHouse 2021</span>
+            <span class="text-white">&copy; TheGuauHouse 2021</span>
         </div>
     </footer>
     <script src="~/js/bootstrap.bundle.min.js"></script>

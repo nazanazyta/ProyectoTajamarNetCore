@@ -8505,23 +8505,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Naza\\.nuget\\packages\\": {},
-    "D:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Roberto\\.nuget\\packages\\": {},
+    "N:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Repos\\ProyectoTajamarNetCore\\ProyectoTajamarNetCore\\ProyectoTajamarNetCore.csproj",
+      "projectUniqueName": "N:\\Repos\\ProyectoTajamarNetCore\\ProyectoTajamarNetCore\\ProyectoTajamarNetCore.csproj",
       "projectName": "ProyectoTajamarNetCore",
-      "projectPath": "G:\\Repos\\ProyectoTajamarNetCore\\ProyectoTajamarNetCore\\ProyectoTajamarNetCore.csproj",
-      "packagesPath": "C:\\Users\\Naza\\.nuget\\packages\\",
-      "outputPath": "G:\\Repos\\ProyectoTajamarNetCore\\ProyectoTajamarNetCore\\obj\\",
+      "projectPath": "N:\\Repos\\ProyectoTajamarNetCore\\ProyectoTajamarNetCore\\ProyectoTajamarNetCore.csproj",
+      "packagesPath": "C:\\Users\\Roberto\\.nuget\\packages\\",
+      "outputPath": "N:\\Repos\\ProyectoTajamarNetCore\\ProyectoTajamarNetCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "D:\\Microsoft\\Xamarin\\NuGet\\"
+        "N:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Naza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Roberto\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
