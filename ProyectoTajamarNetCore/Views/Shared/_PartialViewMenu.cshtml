@@ -1,0 +1,62 @@
+﻿@{ 
+    UsuarioSession usersession = Context.Session.GetObject<UsuarioSession>("usuario");
+}
+
+<div class="collapse navbar-collapse mx-auto" id="minavbar">
+    <ul class="navbar-nav me-auto mb-2 mb-md-0">
+        @if (usersession != null)
+        {
+            @if (usersession.Rol == Enumerations.Roles.Admin)
+            {
+                <li class="nav-item active">
+                    <a class="nav-link" asp-controller="Home" asp-action="Index">ADMIN</a>
+                </li>
+            }
+            else if (usersession.Rol == Enumerations.Roles.Empleado)
+            {
+                <li class="nav-item active">
+                    <a class="nav-link" asp-controller="Home" asp-action="Index">EMPLEADO</a>
+                </li>
+            }
+            else
+            {
+                <partial name="_PartialViewLiMenu" />
+                <li class="nav-item">
+                    <a class="nav-link" asp-controller="Perros" asp-action="Index">PERROS</a>
+                </li>
+            }
+        }
+        else
+        {
+            <partial name="_PartialViewLiMenu" />
+            @*<li class="nav-item">
+                <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+            </li>*@
+            @*<li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="midropdown" data-bs-toggle="dropdown" aria-expanded="false">Dropdown</a>
+                <ul class="dropdown-menu" aria-labelledby="midropdown">
+                    <li><a class="dropdown-item" asp-controller="Home" asp-action="Index">Instalaciones</a></li>
+                    <li><a class="dropdown-item" asp-controller="Home" asp-action="Link">Nosotros</a></li>
+                    <li><a class="dropdown-item" asp-controller="Home" asp-action="Usuarios">Usuarios</a></li>
+                </ul>
+            </li>*@
+        }
+    </ul>
+    @*<form>*@
+    @*<input class="form-control" type="text" placeholder="Search" aria-label="Search">*@
+    @*</form>*@
+
+    @if (usersession != null)
+    {
+        <a class="nav-link btn btn-danger btn-md" asp-controller="Usuarios" asp-action="Logout">
+            Log out
+        </a>
+    }
+    else
+    {
+        <a class="nav-link btn btn-outline-light btn-md" asp-controller="Usuarios" asp-action="Login">
+            Log in
+        </a>
+    }
+</div>
+

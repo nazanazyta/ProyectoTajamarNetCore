@@ -1,18 +1,22 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc;
+using ProyectoTajamarNetCore.Extensions;
 using ProyectoTajamarNetCore.Models;
 using ProyectoTajamarNetCore.Repositories;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using static ProyectoTajamarNetCore.Helpers.Enumerations;
 
 namespace ProyectoTajamarNetCore.Controllers
 {
-    public class SesionController : Controller
+    public class UsuariosController : Controller
     {
+        ISession Session => HttpContext.Session;
         IRepositoryTheGuauHouse Repo;
 
-        public SesionController(IRepositoryTheGuauHouse repo)
+        public UsuariosController(IRepositoryTheGuauHouse repo)
         {
             this.Repo = repo;
         }
@@ -29,12 +33,16 @@ namespace ProyectoTajamarNetCore.Controllers
             {
                 this.Repo.InsertarUsuario(nombre, username, password);
                 ViewData["mensaje"] = "Datos almacenados";
+                UsuarioSession usersession = new UsuarioSession();
+                usersession.Rol = Roles.Usuario;
+                usersession.UserName = username;
+                Session.SetObject("usuario", usersession);
             }
             else
             {
                 ViewData["mensaje"] = "Ese usuario ya existe";
             }
-            return View();
+            return RedirectToAction("Index", "Home");
         }
 
         public IActionResult Login()
@@ -53,9 +61,18 @@ namespace ProyectoTajamarNetCore.Controllers
             else
             {
                 ViewData["mensaje"] = "Éxito: " + user.UserName;
-                //HttpContext.Session.Set("user", user.UserName);
+                UsuarioSession usersession = new UsuarioSession();
+                usersession.Rol = (Roles)user.Rol;
+                usersession.UserName = user.UserName;
+                Session.SetObject("usuario", usersession);
             }
-            return View();
+            return RedirectToAction("Index", "Home");
+        }
+
+        public IActionResult Logout()
+        {
+            Session.Clear();
+            return RedirectToAction("Index", "Home");
         }
     }
 }

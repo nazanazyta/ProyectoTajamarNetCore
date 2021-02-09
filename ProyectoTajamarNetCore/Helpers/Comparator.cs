@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace ProyectoTajamarNetCore.Helpers
 {
-    public class PasswordCompare
+    public class Comparator
     {
         public static bool CompararPasswordString(String a, String b)
         {

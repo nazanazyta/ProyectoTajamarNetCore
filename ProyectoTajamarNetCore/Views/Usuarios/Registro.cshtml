@@ -3,9 +3,10 @@
 }
 
 <main class="form-signin">
-    <a asp-controller="Home" asp-action="Index" class="btn btn-outline-primary">Inicio</a>
     <form method="post" class="mt-2">
-        <img class="mb-4" src="~/images/logoblanco.gif" alt="" width="150" height="150">
+        <a asp-controller="Home" asp-action="Index">
+            <img class="mb-4" src="~/images/logoblanco.gif" alt="" width="150" height="150">
+        </a>
         <h1 class="h3 mb-3 fw-normal">Registro</h1>
         @ViewData["mensaje"]
         <hr />
@@ -32,8 +33,8 @@
         <button class="w-100 btn btn-lg btn-primary" type="submit">Registrar</button>
     </form>
     <br />
-    <a asp-controller="Sesion" asp-action="Login" class="btn btn-info">Ya tengo cuenta</a>
-    <p class="mt-5 mb-3 text-muted">&copy; TheGuauHouse 2021</p>
+    <a asp-controller="Usuarios" asp-action="Login" class="btn btn-info">Ya tengo cuenta</a>
+    <p class="mt-5 mb-3 text-muted">&copy; Guau House 2021</p>
     <br />
     @*<h1 style="color: blue">@ViewData["mensaje"]</h1>*@
 </main>

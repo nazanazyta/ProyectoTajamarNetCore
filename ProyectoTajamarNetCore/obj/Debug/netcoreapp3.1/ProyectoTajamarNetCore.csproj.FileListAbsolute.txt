@@ -475,8 +475,6 @@ G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\P
 G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Link.cshtml.g.cs
 G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Usuarios.cshtml.g.cs
-G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Sesion\Login.cshtml.g.cs
-G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Sesion\Registro.cshtml.g.cs
 G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutSesion.cshtml.g.cs
 G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -643,3 +641,8 @@ N:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\P
 N:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\ProyectoTajamarNetCore.dll
 N:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\ProyectoTajamarNetCore.pdb
 N:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\ProyectoTajamarNetCore.genruntimeconfig.cache
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_PartialViewMenu.cshtml.g.cs
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_PartialViewLiMenu.cshtml.g.cs
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Perros\Index.cshtml.g.cs
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\Login.cshtml.g.cs
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\Registro.cshtml.g.cs

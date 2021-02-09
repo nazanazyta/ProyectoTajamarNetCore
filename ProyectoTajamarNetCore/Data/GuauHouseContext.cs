@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace ProyectoTajamarNetCore.Data
 {
-    public class TheGuauHouseContext: DbContext
+    public class GuauHouseContext: DbContext
     {
-        public TheGuauHouseContext(DbContextOptions<TheGuauHouseContext> options)
+        public GuauHouseContext(DbContextOptions<GuauHouseContext> options)
             : base(options) { }
 
         public DbSet<Usuario> Usuarios { get; set; }

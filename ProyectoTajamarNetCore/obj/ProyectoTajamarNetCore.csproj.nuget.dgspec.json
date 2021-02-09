@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "N:\\Repos\\ProyectoTajamarNetCore\\ProyectoTajamarNetCore\\ProyectoTajamarNetCore.csproj": {}
+    "G:\\Repos\\ProyectoTajamarNetCore\\ProyectoTajamarNetCore\\ProyectoTajamarNetCore.csproj": {}
   },
   "projects": {
-    "N:\\Repos\\ProyectoTajamarNetCore\\ProyectoTajamarNetCore\\ProyectoTajamarNetCore.csproj": {
+    "G:\\Repos\\ProyectoTajamarNetCore\\ProyectoTajamarNetCore\\ProyectoTajamarNetCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "N:\\Repos\\ProyectoTajamarNetCore\\ProyectoTajamarNetCore\\ProyectoTajamarNetCore.csproj",
+        "projectUniqueName": "G:\\Repos\\ProyectoTajamarNetCore\\ProyectoTajamarNetCore\\ProyectoTajamarNetCore.csproj",
         "projectName": "ProyectoTajamarNetCore",
-        "projectPath": "N:\\Repos\\ProyectoTajamarNetCore\\ProyectoTajamarNetCore\\ProyectoTajamarNetCore.csproj",
-        "packagesPath": "C:\\Users\\Roberto\\.nuget\\packages\\",
-        "outputPath": "N:\\Repos\\ProyectoTajamarNetCore\\ProyectoTajamarNetCore\\obj\\",
+        "projectPath": "G:\\Repos\\ProyectoTajamarNetCore\\ProyectoTajamarNetCore\\ProyectoTajamarNetCore.csproj",
+        "packagesPath": "C:\\Users\\Naza\\.nuget\\packages\\",
+        "outputPath": "G:\\Repos\\ProyectoTajamarNetCore\\ProyectoTajamarNetCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "N:\\Microsoft\\Xamarin\\NuGet\\"
+          "D:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Roberto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Naza\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -55,6 +55,10 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[3.1.4, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
             }
           },
           "imports": [

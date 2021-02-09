@@ -29,13 +29,16 @@ namespace ProyectoTajamarNetCore
             String cadenasql = this.Configuration.GetConnectionString("casasqlnaza");
 
             services.AddSingleton<IConfiguration>(this.Configuration);
-            services.AddSingleton<PasswordCompare>();
+            services.AddSingleton<Comparator>();
             //services.AddSingleton<CypherService>();
 
             services.AddTransient<IRepositoryTheGuauHouse, RepositoryTheGuauHouseSql>();
 
-            services.AddDbContext<TheGuauHouseContext>(options => options.UseSqlServer(cadenasql));
-
+            services.AddDbContext<GuauHouseContext>(options => options.UseSqlServer(cadenasql));
+            services.AddSession(options =>
+            {
+                options.IdleTimeout = TimeSpan.FromMinutes(15);
+            });
             services.AddControllersWithViews();
         }
 
@@ -48,6 +51,7 @@ namespace ProyectoTajamarNetCore
 
             app.UseRouting();
             app.UseStaticFiles();
+            app.UseSession();
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllerRoute(

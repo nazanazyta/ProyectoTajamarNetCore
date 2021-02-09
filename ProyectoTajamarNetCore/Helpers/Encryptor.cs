@@ -8,11 +8,11 @@ using System.Threading.Tasks;
 
 namespace ProyectoTajamarNetCore.Helpers
 {
-    public class CypherService
+    public class Encryptor
     {
         IConfiguration Configuration;
 
-        public CypherService(IConfiguration configuration)
+        public Encryptor(IConfiguration configuration)
         {
             this.Configuration = configuration;
         }
