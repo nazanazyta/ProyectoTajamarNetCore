@@ -9,31 +9,27 @@ using System.Threading.Tasks;
 
 namespace ProyectoTajamarNetCore.Controllers
 {
-    public class PerrosController : Controller
+    public class ReservasController : Controller
     {
         IRepositoryTheGuauHouse Repo;
 
-        public PerrosController(IRepositoryTheGuauHouse repo)
+        public ReservasController(IRepositoryTheGuauHouse repo)
         {
             this.Repo = repo;
         }
 
         public IActionResult Index()
         {
-            return View();
-        }
-
-        public IActionResult Insertar()
-        {
+            //TRAER PERROS para el select
             return View();
         }
 
         [HttpPost]
-        public IActionResult Insertar(Perro perro)
+        public IActionResult Index(Reserva reserva)
         {
-            Perro p = this.Repo.InsertarPerro
-                (perro, HttpContext.Session.GetObject<UsuarioSession>("usuario").Id);
-            return View(p);
+            reserva.IdUsu = HttpContext.Session.GetObject<UsuarioSession>("usuario").Id;
+            this.Repo.InsertarReserva(reserva);
+            return RedirectToAction("Index", "Home");
         }
     }
 }

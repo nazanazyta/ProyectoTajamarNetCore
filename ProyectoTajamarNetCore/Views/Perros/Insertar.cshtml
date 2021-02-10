@@ -1,0 +1,14 @@
+﻿<h1>Insertar Perro</h1>
+
+<form method="post">
+    <label>Nombre</label>
+    <input type="text" name="nombre" class="form-control" />
+    <label>Estatura</label>
+    <select name="estatura" class="form-control">
+        @foreach (String i in Enum.GetNames(typeof(Enumerations.Estaturas)))
+        {
+            <option value="@i">@i</option>
+        }
+    </select><br />
+    <button type="submit" class="btn btn-success">Guardar</button>
+</form>

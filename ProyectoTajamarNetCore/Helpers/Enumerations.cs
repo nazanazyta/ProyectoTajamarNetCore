@@ -12,9 +12,14 @@ namespace ProyectoTajamarNetCore.Helpers
             Admin = 1, Usuario = 2, Empleado = 3
         }
 
-        public enum Cosas
+        public enum Estaturas
         {
-            Mochila, Chancla
+            Grande, Mediano, Pequeño
+        }
+
+        public enum Turnos
+        {
+            Mañana, Tarde
         }
     }
 }

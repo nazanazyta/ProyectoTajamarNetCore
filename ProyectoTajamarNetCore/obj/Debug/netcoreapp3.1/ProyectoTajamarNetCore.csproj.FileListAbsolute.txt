@@ -646,3 +646,4 @@ G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\R
 G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Perros\Index.cshtml.g.cs
 G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\Login.cshtml.g.cs
 G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\Registro.cshtml.g.cs
+G:\Repos\ProyectoTajamarNetCore\ProyectoTajamarNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Perros\Insertar.cshtml.g.cs

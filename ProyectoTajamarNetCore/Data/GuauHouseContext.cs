@@ -13,5 +13,7 @@ namespace ProyectoTajamarNetCore.Data
             : base(options) { }
 
         public DbSet<Usuario> Usuarios { get; set; }
+        public DbSet<Perro> Perros { get; set; }
+        public DbSet<Reserva> Reservas { get; set; }
     }
 }

@@ -18,5 +18,11 @@ namespace ProyectoTajamarNetCore.Repositories
             , String username, String password);
 
         Usuario Login(String username, String password);
+
+        int GetMaxIdPerros();
+
+        Perro InsertarPerro(Perro perro, int idusu);
+
+        Reserva InsertarReserva(Reserva reserva);
     }
 }

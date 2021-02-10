@@ -31,11 +31,12 @@ namespace ProyectoTajamarNetCore.Controllers
         {
             if (this.Repo.GetUsuarioUsername(username) == null)
             {
-                this.Repo.InsertarUsuario(nombre, username, password);
+                Usuario usu = this.Repo.InsertarUsuario(nombre, username, password);
                 ViewData["mensaje"] = "Datos almacenados";
                 UsuarioSession usersession = new UsuarioSession();
                 usersession.Rol = Roles.Usuario;
                 usersession.UserName = username;
+                usersession.Id = usu.IdUsuario;
                 Session.SetObject("usuario", usersession);
             }
             else
@@ -64,6 +65,7 @@ namespace ProyectoTajamarNetCore.Controllers
                 UsuarioSession usersession = new UsuarioSession();
                 usersession.Rol = (Roles)user.Rol;
                 usersession.UserName = user.UserName;
+                usersession.Id = user.IdUsuario;
                 Session.SetObject("usuario", usersession);
             }
             return RedirectToAction("Index", "Home");

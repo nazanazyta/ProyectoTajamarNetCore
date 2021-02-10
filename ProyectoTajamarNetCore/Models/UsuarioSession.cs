@@ -8,6 +8,8 @@ namespace ProyectoTajamarNetCore.Models
 {
     public class UsuarioSession
     {
+        public int Id { get; set; }
+
         public String UserName { get; set; }
 
         public Roles Rol { get; set; }

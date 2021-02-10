@@ -7,20 +7,22 @@ using System.Threading.Tasks;
 
 namespace ProyectoTajamarNetCore.Models
 {
-    [Table("perros")]
-    public class Perro
+    [Table("reservas")]
+    public class Reserva
     {
         [Key]
         [Column("id")]
-        public int IdPerro { get; set; }
+        public int Id { get; set; }
         [Column("idusu")]
         public int IdUsu { get; set; }
-        [Column("nombre")]
-        public String Nombre { get; set; }
-        [Column("estatura")]
-        public String Estatura { get; set; }
-        [Column("fecha_alta")]
+        [Column("idper")]
+        public int IdPer { get; set; }
+        [Column("fecha")]
+        public DateTime Fecha { get; set; }
+        [Column("turno")]
+        public String Turno { get; set; }
         [Timestamp]
+        [Column("fecha_alta")]
         public DateTime FechaAlta { get; set; }
     }
 }

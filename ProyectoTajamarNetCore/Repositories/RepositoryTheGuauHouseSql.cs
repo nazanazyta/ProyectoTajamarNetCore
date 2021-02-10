@@ -1,4 +1,5 @@
-﻿using ProyectoTajamarNetCore.Data;
+﻿using Microsoft.AspNetCore.Http;
+using ProyectoTajamarNetCore.Data;
 using ProyectoTajamarNetCore.Helpers;
 using ProyectoTajamarNetCore.Models;
 using System;
@@ -89,6 +90,48 @@ namespace ProyectoTajamarNetCore.Repositories
                     return null;
                 }
             }
+        }
+
+        public int GetMaxIdPerros()
+        {
+            int id = (from datos in this.Context.Perros
+                      select datos.IdPerro).Count();
+            if (id == 0)
+            {
+                return 1;
+            }
+            return (from datos in this.Context.Perros
+                    select datos.IdPerro).Max() + 1;
+        }
+
+        public Perro InsertarPerro(Perro perro, int idusu)
+        {
+            //quitar el id como parámetro
+            perro.IdPerro = this.GetMaxIdPerros();
+            perro.IdUsu = idusu;
+            Perro p = this.Context.Perros.Add(perro).Entity;
+            this.Context.SaveChanges();
+            return p;
+        }
+
+        public int GetMaxIdReservas()
+        {
+            int id = (from datos in this.Context.Reservas
+                      select datos.Id).Count();
+            if (id == 0)
+            {
+                return 1;
+            }
+            return (from datos in this.Context.Reservas
+                    select datos.Id).Max() + 1;
+        }
+
+        public Reserva InsertarReserva(Reserva reserva)
+        {
+            reserva.Id = this.GetMaxIdReservas();
+            Reserva res = this.Context.Reservas.Add(reserva).Entity;
+            this.Context.SaveChanges();
+            return res;
         }
 
         //public void InsertarUsuario(String nombre
